@@ -75,3 +75,6 @@ Feature Engineering: Created metrics for Implied Leverage, Win Rate, and Long/Sh
 Clustering: Used K-Means to identify three archetypes: High-Stakes Scalpers, Professionals, and Retail Explorers.
 
 Validation: Used if-else logical loops to determine if performance gaps between segments were statistically actionable.
+
+Google drive Link
+https://drive.google.com/drive/folders/1AAuWkewJJcPBuiU751tJt3E3J6XwrbXr?usp=sharing
